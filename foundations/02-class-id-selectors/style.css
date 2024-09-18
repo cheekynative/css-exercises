@@ -1,0 +1,25 @@
+/* styles.css */
+
+.odd-numbers {
+    color: black;
+    background-color: rgb(216, 112, 138);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+  }
+
+  .cooler-class {
+    font-size: 24px;
+
+
+  }
+
+  #individual {
+    color: blue;
+    font-size: 36px;
+  }
+
+  #another-individual {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+  }
